@@ -1,7 +1,7 @@
-# students_list_manager_school_project
+# Students_list_manager_school_project
 This is an other one school project for C++ lessons, which represents student list management.
 
-# launching the project
+# Launching the project
 It is console application, so you can run it directly.
 
 After running the project can see the menu with different choices. By pressing `1` you can enter student data from keyboard by yourself or read from already existing file.
